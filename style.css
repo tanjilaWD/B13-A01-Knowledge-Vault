@@ -212,6 +212,8 @@
     display: flex;
     align-items: center;  
     justify-content: center;
+    padding: 10px;
+    font-size: 12px;
 }
 /* Early Access Section */
 .early-access{
@@ -240,6 +242,7 @@
     background-color: #469165;
     border-radius: 4px;
     margin: 24px 0 16px 0;
+    cursor: pointer;
 }
 .early-access .early-btn:hover{
     background-color: #276941;
